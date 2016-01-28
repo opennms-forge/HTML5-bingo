@@ -1,7 +1,7 @@
 
-var headerText = "Bingo";
+var headerText = "Tarus Bingo";
 
-var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/opennms-forge/HTML5-bingo.git' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
@@ -10,35 +10,35 @@ var clickSnd = new Audio("audio/click.mp3");
 var winSnd = new Audio("audio/win.mp3");
 
 var JSONBingo = {"squares": [
-        {"square": "one"},
-        {"square": "two"},
-        {"square": "three"},
-        {"square": "four"},
-        {"square": "five"},
-        {"square": "six"},
-        {"square": "seven"},
-        {"square": "eight"},
-        {"square": "nine"},
-        {"square": "ten"},
-        {"square": "eleven"},
-        {"square": "twelve"},
-        {"square": "thirteen"},
-        {"square": "fourteen"},
-        {"square": "fifteen"},
-        {"square": "sixteen"},
-        {"square": "seventeen"},
-        {"square": "eighteen"},
-        {"square": "nineteen"},
-        {"square": "twenty"},
-        {"square": "twenty one"},
-        {"square": "twenty two"},
-        {"square": "twenty three"},
-        {"square": "twenty four"},    	
-        {"square": "twenty five"},    	
-        {"square": "twenty six"},    	
-        {"square": "twenty seven"}, 
-        {"square": "twenty eight"},    	
-        {"square": "twenty nine"},    	
-        {"square": "thirty"}    	
+        {"square": "I'm old"},
+        {"square": "TSR 80"},
+        {"square": "Linkd"},
+        {"square": "Open Core"},
+        {"square": "fauxpen source"},
+        {"square": "Internet of Things"},
+        {"square": "Minions"},
+        {"square": "will always be free"},
+        {"square": "it never sucks"},
+        {"square": "Radioshack"},
+        {"square": "Network Management"},
+        {"square": "Maintainer"},
+        {"square": "Internet Bubble"},
+        {"square": "Business value"},
+        {"square": "Enterprise"},
+        {"square": "Red Hat"},
+        {"square": "Zenoss"},
+        {"square": "Lawyer"},
+        {"square": "Geek"},
+        {"square": "Apple"},
+        {"square": "evil"},
+        {"square": "Farm"},
+        {"square": "Horse shit"},
+        {"square": "WiFi"},
+        {"square": "Weather Station"},
+        {"square": "Snowden"},
+        {"square": "Airport"},
+        {"square": "Windows"},
+        {"square": "Couple of Blogs"},
+        {"square": "Cocktails"}
     ]
 };
