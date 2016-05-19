@@ -39,6 +39,8 @@ var JSONBingo = {"squares": [
         {"square": "Airport"},
         {"square": "Windows"},
         {"square": "Couple of Blogs"},
-        {"square": "Cocktails"}
+        {"square": "Cocktails"},
+        {"square": "I hate maps"},
+        {"square": "I love maps"}
     ]
 };
